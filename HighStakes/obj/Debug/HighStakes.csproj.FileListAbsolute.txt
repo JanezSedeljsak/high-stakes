@@ -1,0 +1,21 @@
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\bin\Debug\HighStakes.exe.config
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\bin\Debug\HighStakes.exe.manifest
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\bin\Debug\HighStakes.application
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\bin\Debug\HighStakes.exe
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\bin\Debug\HighStakes.pdb
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.Form1.resources
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.Properties.Resources.resources
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.csproj.GenerateResource.cache
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.csproj.CoreCompileInputs.cache
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.exe.manifest
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.application
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.exe
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.pdb
+C:\Users\janez\Documents\Visual Studio 2017\Projects\HighStakes\HighStakes\obj\Debug\HighStakes.csprojResolveAssemblyReference.cache
+D:\projects_ATM\oldprograming\c# projects\HighStakes\HighStakes\obj\Debug\HighStakes.csprojAssemblyReference.cache
+D:\projects_ATM\oldprograming\c# projects\HighStakes\HighStakes\obj\Debug\HighStakes.Form1.resources
+D:\projects_ATM\oldprograming\c# projects\HighStakes\HighStakes\obj\Debug\HighStakes.Properties.Resources.resources
+D:\projects_ATM\oldprograming\c# projects\HighStakes\HighStakes\obj\Debug\HighStakes.csproj.GenerateResource.cache
+D:\projects_ATM\oldprograming\c# projects\HighStakes\HighStakes\obj\Debug\HighStakes.csproj.CoreCompileInputs.cache
+D:\projects_ATM\oldprograming\c# projects\HighStakes\HighStakes\obj\Debug\HighStakes.exe
+D:\projects_ATM\oldprograming\c# projects\HighStakes\HighStakes\obj\Debug\HighStakes.pdb

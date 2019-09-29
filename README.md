@@ -5,7 +5,7 @@ Simple shooting game made with raw C# and windows forms...
 ## Getting Started
 
 > Download the project<br/>
-> Run in VS 
+> Run it in VS 
 > That's it... 
 
 ### Prerequisites

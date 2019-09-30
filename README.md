@@ -2,6 +2,8 @@
 
 Simple shooting game made with raw C# and windows forms... 
 
+![alt text](https://github.com/JanezSedeljsak/high-stakes/blob/master/site.png)
+
 ## Getting Started
 
 > Download the project<br/>
